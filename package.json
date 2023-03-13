@@ -1,0 +1,19 @@
+{
+  "name": "message-jn",
+  "version": "1.0.0",
+  "description": "Este repositorio es para crear un paquete en npm, que sea publicado y usado.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jonathan Hernandez <pgr.gni.20@gmail.com>",
+  "license": "ISC",
+  "bin": {
+    "message-jn": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1"
+  }
+}
