@@ -1,6 +1,6 @@
 {
   "name": "message-jn",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Este repositorio es para crear un paquete en npm, que sea publicado y usado.",
   "main": "index.js",
   "scripts": {
